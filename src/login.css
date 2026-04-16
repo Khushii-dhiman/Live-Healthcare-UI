@@ -1,0 +1,33 @@
+.login-container {
+  margin-top: 50px;
+  text-align: center;
+  font-family: Arial;
+}
+
+.login-box {
+  width: 350px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  background: #f6f6f6;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.login-box input,
+.login-box select {
+  width: 100%;
+  padding: 12px;
+  margin-top: 12px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+}
+
+.login-box button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 15px;
+  background: black;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
